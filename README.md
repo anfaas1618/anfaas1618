@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/anfaas-qureshi-761860184/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="developer.anfaas@mibtechnologies.in">
+<a href="gmail.com/developer.anfaas@mibtechnologies.in">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <br />
