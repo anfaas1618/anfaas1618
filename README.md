@@ -14,4 +14,4 @@ Hi, I'm anfaas 😉, a programmer 👨🏻‍💻 from India. I'm an open-source
 
 ![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=anfaas1618&show_icons=true&hide_border=true)
 
-⭐️ From [LovelyBuggies](https://github.com/anfaas1618)
+⭐️ From [Anfaas](https://github.com/anfaas1618)
