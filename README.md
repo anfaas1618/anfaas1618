@@ -6,12 +6,12 @@
 <br />
 <br />
 
-Hi, I'm anfaas 😉, a programmer 👨🏻‍💻 from India. I'm an open-source profession and always develop in java . \
+Hi, I'm anfaas 😉, a programmer 👨🏻‍💻 from India. I'm an open-source enthusiast who loves to solve problems. 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 Learning goLang
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=anfaas1618&show_icons=true&hide_border=true)
+![Anfaas Qureshi github stats](https://github-readme-stats.vercel.app/api?username=anfaas1618&show_icons=true&hide_border=true)
 
 ⭐️ From [Anfaas](https://github.com/anfaas1618)
