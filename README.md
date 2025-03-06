@@ -11,7 +11,7 @@ Hi, I'm anfaas 😉, a programmer 👨🏻‍💻 from India. I'm an open-source
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
-Learning goLang
+Experting in Golang :)
 
 
 ⭐️ From [Anfaas](https://github.com/anfaas1618)
