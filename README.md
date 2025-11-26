@@ -8,8 +8,6 @@
 
 Hi, I'm anfaas 😉, a programmer 👨🏻‍💻 from India. I'm an open-source enthusiast who loves to solve problems. 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
 **Current Status Quo**
 Experting in Golang :)
 
